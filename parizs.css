@@ -12,6 +12,15 @@ body {
     font-size: 48px;
     text-align: center;
 }
+.tartalom h2 {
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.tartalom h3 {
+    font-size: 14px;
+    font-style: italic;
+}
 
 .tartalom {
     max-width: 1000px;
